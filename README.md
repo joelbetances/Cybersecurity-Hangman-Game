@@ -22,7 +22,7 @@ This is a fun and educational Hangman game focused on cybersecurity terms. The g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-hangman.git
+   git clone https://github.com/joelbetances/Cybersecurity-Hangman-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
